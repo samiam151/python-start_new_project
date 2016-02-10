@@ -7,4 +7,6 @@ This script takes two command line arguements: the location the ROOT folder will
 For example, if I want a project folder right where I am, I'll say 'python new_project.py . new'.
 
 ### What You Get
-When you run the script, it creates a root folder in the location you specified. That folder as a -styles folder, a -scripts folder, -data folder
+When you run the script, it creates a root folder in the location you specified. That folder has a 'styles' folder, a 'scripts' folder, 'data' folder, and an 'index.html'.
+
+Inside, the 'scripts' folder, is a 'libs' folder, and a 'script.js' file. Inside the 'styles' folder is a 'style.scss' file.
